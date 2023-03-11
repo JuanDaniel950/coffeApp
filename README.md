@@ -1,16 +1,14 @@
 # coffee_shop
 
-A new Flutter project.
+UI realiza en Flutter.
 
-## Getting Started
+## App Cafeterìa
 
-This project is a starting point for a Flutter application.
+Proyecto Educativo
+Tienda para la muestra de productos de cade, muestra nombre Precio e Imagen.
 
-A few resources to get you started if this is your first Flutter project:
+[![Demo Coffee Shop ](https://gifs.com/gif/coffeshop-Y790B0)](#)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Juan Daniel Pèrez Bàez
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+dani.perez882@gmail.com

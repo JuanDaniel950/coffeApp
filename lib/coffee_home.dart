@@ -14,7 +14,7 @@ class CoffeeHome extends StatelessWidget {
           if (details.primaryDelta! < -20) {
             Navigator.of(context).push(
               PageRouteBuilder(
-                transitionDuration: const Duration(milliseconds: 500),
+                transitionDuration: const Duration(milliseconds: 300),
                 pageBuilder: (context, animation, _) {
                   return FadeTransition(
                     opacity: animation,

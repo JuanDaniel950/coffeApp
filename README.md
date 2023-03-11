@@ -1,13 +1,13 @@
 # coffee_shop
 
-UI realiza en Flutter.
+UI realizada en Flutter.
 
 ## App Cafeterìa
 
 Proyecto Educativo
 Tienda para la muestra de productos de cade, muestra nombre Precio e Imagen.
 
-[![Demo Coffee Shop ](https://gifs.com/gif/coffeshop-Y790B0)](#)
+![Demo Coffee Shop](docs/coffeShop.gif)
 
 # Juan Daniel Pèrez Bàez
 

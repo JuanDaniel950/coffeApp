@@ -7,7 +7,7 @@ UI realizada en Flutter.
 Proyecto Educativo
 Tienda para la muestra de productos de cade, muestra nombre Precio e Imagen.
 
-![Demo Coffee Shop](docs/coffeShop.gif)
+![Demo Coffee Shop](docs/coffeeShop.gif)
 
 # Juan Daniel Pèrez Bàez
 
